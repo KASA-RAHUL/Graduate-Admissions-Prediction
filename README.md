@@ -35,3 +35,11 @@ This project analyzes the **Jamboree Admissions dataset** to identify key factor
 ---
 
 ## 📂 Project Structure
+
+Jamboree-Admissions-Prediction/
+├── data/ # Dataset
+├── notebooks/ # Analysis Notebook
+├── src/ # Python scripts
+├── results/ # Plots & model outputs
+├── README.md # Documentation
+└── requirements.txt # Dependencies
